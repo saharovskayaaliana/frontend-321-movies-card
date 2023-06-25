@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Regular.eot');
+    src: local('Poppins-Regular'), local('Poppins-Regular'),
+        url('../frontend-321-bootstrap/fonts/Poppins-Regular.eot#iefix') format('embedded-opentype'),
+        url('../frontend-321-bootstrap/fonts/Poppins-Regular.woff') format('woff'),
+        url('../frontend-321-bootstrap/fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-SemiBold.eot');
+    src: local('Poppins-SemiBold'), local('Poppins-SemiBold'),
+        url('../frontend-321-bootstrap/fonts/Poppins-SemiBold.eot#iefix') format('embedded-opentype'),
+        url('../frontend-321-bootstrap/fonts/Poppins-SemiBold.woff') format('woff'),
+        url('../frontend-321-bootstrap/fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
